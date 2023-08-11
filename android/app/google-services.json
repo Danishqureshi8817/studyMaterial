@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "591017672992",
+    "project_id": "studymaterial-ce2e2",
+    "storage_bucket": "studymaterial-ce2e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591017672992:android:efb5e8fa11be18c5a15745",
+        "android_client_info": {
+          "package_name": "com.rgpvstudymaterial.zs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591017672992-8tva7h6ku11a4d8gutf0g2enjsseijti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rgpvstudymaterial.zs",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "591017672992-d1namr6df8decsmfq5li2cbu2h4vantb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUrXFDM8tDfkxb9Vo_JzV3p1IkbRn0ujA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591017672992-d1namr6df8decsmfq5li2cbu2h4vantb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
