@@ -20,11 +20,13 @@ const Home = () => {
 
    const [banner, setBanner] = useState()
    const [branch, setBranches] = useState()
+
   const banners = async () => {
     const banners = await CallApiJson('banner', 'GET');
    console.log("Banner data",banners);
      setBanner(banners?.data);
    }
+
    const branches = async () => {
     const branchData = await CallApiJson('semesterList', 'GET');
    console.log("semesterList data",branchData);
@@ -54,6 +56,7 @@ const Home = () => {
       );
     }
   }
+  
   useEffect(() => {
     banners();
     branches();
